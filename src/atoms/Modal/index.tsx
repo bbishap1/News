@@ -88,8 +88,6 @@ const Modal: React.FC<Props> = (props) => {
               </div>
               <div className={classes.marginText}>
               <Typography type="h4" color="light">{props.data?.description || ""}</Typography>
-              <Typography type="h4" color="light">{props.data?.description || ""}</Typography>
-              <Typography type="h4" color="light">{props.data?.description || ""}</Typography>
               </div>
             </div>
           </div>
